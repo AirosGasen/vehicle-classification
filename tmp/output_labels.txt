@@ -1,0 +1,5 @@
+truck
+jeepney
+bus
+tricycle
+car
